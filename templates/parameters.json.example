@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "projectName": {
-            "value": ""
+            "value": "businessprocessautomationv1"
           },
           "repositoryToken": {
-            "value": ""
+            "value": "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"
           },
           "repositoryUrl": {
-            "value": ""
+            "value": "https://github.com/Santhosh0505/business-process-automation"
           }
     }
 }
